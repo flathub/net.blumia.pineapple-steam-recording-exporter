@@ -1,6 +1,6 @@
 app-id: net.blumia.pineapple-steam-recording-exporter
 runtime: org.kde.Platform
-runtime-version: '6.9'
+runtime-version: '6.10'
 sdk: org.kde.Sdk
 command: PineappleSteamRecordingExporter
 
@@ -34,5 +34,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/BLumia/pineapple-steam-recording-exporter.git
-        tag: 0.2.0
-        commit: e22e07238467c7bb8a1c3afeaef7a82fe6e815b5
+        tag: 0.3.0
+        commit: a7a9ffa796ea06e85ef6e8c44597b40d963ca1c0
