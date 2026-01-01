@@ -34,5 +34,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/BLumia/pineapple-steam-recording-exporter.git
-        tag: 0.3.0
-        commit: a7a9ffa796ea06e85ef6e8c44597b40d963ca1c0
+        tag: 0.4.0
+        commit: 0853792f65fa98e92886ef79e79f665deb8171cb
